@@ -46,6 +46,7 @@ import Stories.SortableTable as SortableTable
 import Stories.Spinner as Spinner
 import Stories.Status as Status
 import Stories.StepIndicator as StepIndicator
+import Stories.StepIndicatorModern as StepIndicatorModern
 import Stories.Table as Table
 import Stories.Tabs as Tabs
 import Stories.Tag as Tag
@@ -135,6 +136,7 @@ main =
                 , Spinner.stories
                 , Status.stories
                 , StepIndicator.stories
+                , StepIndicatorModern.stories
                 , Table.stories
                 , Tabs.stories
                 , Tag.stories
